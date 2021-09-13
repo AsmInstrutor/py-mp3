@@ -1,0 +1,7 @@
+#!/bin/python3
+
+import moviepy.editor
+mp4 = input("Nome do MP4: ")
+vide = moviepy.editor.VideoFileClip(mp4)
+audio_data = video.audio
+audio_data.write_audiofile()
