@@ -16,7 +16,7 @@
     
    ___Logo após, vamos clonar e executar nosso programa:___
    
-    git clone 
+    git clone https://github.com/AsmInstrutor/py-mp3.git
     cd py-mp3
     python py-mp3
     
